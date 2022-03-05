@@ -1,1 +1,3 @@
-# coding_test_java
+# Baekjoon_java_solving
+
+[Baekjoon] (https://www.acmicpc.net/) 문제 풀기

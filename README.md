@@ -2,5 +2,4 @@
 
 [Baekjoon](https://www.acmicpc.net/) 문제 풀기
 
-
-문제 풀고 풀이 과정 올리기
+백준 문제 풀고 '문제 풀이 과정' 올리기
